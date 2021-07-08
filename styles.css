@@ -94,8 +94,11 @@ p.clearbold {
   }
   div {
     flex-basis: 55%;
-  }
-  div {
     padding: 60px 40px;
+  }
+}
+@media all and (min-width: 1280px) {
+  div {
+    padding: 100px 40px 60px;
   }
 }
