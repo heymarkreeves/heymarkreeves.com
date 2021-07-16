@@ -1,0 +1,59 @@
+[[redirects]]
+  from = "http://clearbold.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "https://clearbold.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "http://markjreeves.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "https://markjreeves.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "http://markreeves.net/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "https://markreeves.net/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+  [[redirects]]
+  from = "http://www.clearbold.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "https://www.clearbold.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "http://www.markjreeves.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "https://www.markjreeves.com/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "http://www.markreeves.net/*"
+  to = "https://heymarkreeves.com"
+  force = true
+
+[[redirects]]
+  from = "https://www.markreeves.net/*"
+  to = "https://heymarkreeves.com"
+  force = true
