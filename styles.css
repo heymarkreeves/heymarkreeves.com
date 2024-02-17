@@ -46,6 +46,7 @@ body {
 abbr {
   text-decoration: none;
 }
+
 b {
   font-family: semibold;
   font-weight: normal;
@@ -60,7 +61,7 @@ img {
   width: 100%;
 }
 
-.layout > div {
+.layout>div {
   padding: 40px 20px;
 }
 
@@ -68,9 +69,11 @@ p {
   font-size: 1.125em;
   line-height: 1.5em;
 }
+
 p:not(:last-of-type) {
   margin-bottom: 1.5em;
 }
+
 p.clearbold {
   font-size: 0.875em;
   margin-bottom: 1.71428571em;
@@ -81,14 +84,16 @@ p.clearbold {
     position: relative;
     z-index: 1;
   }
-  .layout > div {
+
+  .layout>div {
     position: relative;
     margin-top: -40px;
     z-index: 2;
   }
 }
+
 @media all and (max-width: 600px) {
-  .layout > div {
+  .layout>div {
     background-color: rgba(255, 255, 255, 0.875);
     margin-top: -120px;
   }
@@ -104,16 +109,24 @@ p.clearbold {
     max-width: 1320px;
     width: 100%;
   }
+
   img {
     flex-basis: 40%;
   }
-  .layout > div {
+
+  .layout>div {
     flex-basis: 60%;
     padding: 40px 40px;
   }
 }
+
 @media all and (min-width: 1280px) {
   body {
     padding-top: 80px;
   }
+}
+
+#wcb.carbonbadge {
+  margin-top: 1.5rem;
+  text-align: left !important;
 }
